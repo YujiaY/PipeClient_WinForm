@@ -26,10 +26,8 @@ namespace PipeClient_WinForm
         private void btnStart_Click(object sender, EventArgs e)
         {
             // Connect to the pipe or wait until the pipe is available.
-            //  
-            // NamedPipeClientStream pipeClient1 = new NamedPipeClientStream("123");
+
             pipeClient = new NamedPipeClientStream(".", "testpipe", PipeDirection.In);
-            //if (!pipeClient.IsConnected)
 
             pipeClient.Connect();
 
@@ -50,13 +48,6 @@ namespace PipeClient_WinForm
                     tbReceive.Text += temp;
                 }
             }
-
-
-
-
-
-            
-
 
 
         }
