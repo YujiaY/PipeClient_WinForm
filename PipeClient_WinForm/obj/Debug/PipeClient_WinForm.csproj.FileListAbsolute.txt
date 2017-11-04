@@ -1,0 +1,10 @@
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\bin\Debug\PipeClient_WinForm.exe.config
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\bin\Debug\PipeClient_WinForm.exe
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\bin\Debug\PipeClient_WinForm.pdb
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\obj\Debug\PipeClient_WinForm.Form1.resources
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\obj\Debug\PipeClient_WinForm.Properties.Resources.resources
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\obj\Debug\PipeClient_WinForm.csproj.GenerateResource.Cache
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\obj\Debug\PipeClient_WinForm.csproj.CoreCompileInputs.cache
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\obj\Debug\PipeClient_WinForm.exe
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\obj\Debug\PipeClient_WinForm.pdb
+E:\@VisualStudio Files@\DataStructure\PipeClient_WinForm\PipeClient_WinForm\obj\Debug\PipeClient_WinForm.csprojResolveAssemblyReference.cache
